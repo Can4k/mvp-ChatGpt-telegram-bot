@@ -1,4 +1,4 @@
-#MVP ChatGpt telegram bot
+# MVP ChatGpt telegram bot
 
 Простой **бот**, написанный на `python-telegram-bot v20`
 
